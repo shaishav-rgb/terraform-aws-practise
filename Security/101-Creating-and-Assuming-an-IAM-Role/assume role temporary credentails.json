@@ -1,0 +1,11 @@
+{
+    "Credentials": {
+        "AccessKeyId": "ASIAWJWQMUTAPK2TKX7F",
+        "SecretAccessKey": "ck3kd56pxecB37LogNAmWQayCGiuLTEIIPpHPiZY",
+        "SessionToken": "IQoJb3JpZ2luX2VjEG0aCmFwLXNvdXRoLTEiRzBFAiEAlWdnP6Pe+jm6RQmgKW9GMQI/P+s19CcdwU8+yATsMdICIFBnOytoC4WYPDkaNrmklqaKnLGeV7U1sIXEfQNffto/Kp4CCDcQABoMNDMzMTU0OTkxMjk2IgxeElYTIwXCtcaSS38q+wEjtYGQEzdr4kQxA+DvhaKtVNmT6XE8AiCHqv9OGPNNOSj2JC8gMYEfny1uTDeybABxa8/MOb9KOzx8drqwFXTOUIqyeFpsczDfaD7IGuhFiQuzpaMZ5rcsXqaiA55Bq3Rb1TlsnmU2E89wYySmd5ITV8fL6YTfb9EXu3F7wDsmGDw6B7Ui6Al4ny8LzlgFoApDKTgtadUKSfZ7c+xIQ2pAOpGkqL+DykRnhP7zr3PjOf7a7T9BPZMkPKV2n8z9cMqDWToxcFPHRJ/+zqmhX0hrl53LIODTfytldMpycMD9YObnxxvBHey5qUwybO95jC9i6ocxNt4eL52nxTDC16PLBjqdAWyMC1JhK2gCxxnCqExYPg+LZ9QM1Xfgh9GJ5ndWoKHp8MlqZxeLGoUw+Pl+phFpRHIQ42EjN0/fIprcTV/d14FAQPR0NtcHH4jdB1d1oM8LUxjqI4jXf16dOJEPQDkHiIfliumt+M0jLXRvxqJVz91vapg74Boao210l/MEvnYbb0pgmS5uR9aBVOl0lYmziMI7pGA7OZGdrfci/78=",
+        "Expiration": "2026-01-15T14:29:38+00:00"
+    },
+    "AssumedRoleUser": {
+        "AssumedRoleId": "AROAWJWQMUTABNASRLID3:test-user-testing",
+        "Arn": "arn:aws:sts::433154991296:assumed-role/shaishav-custom-assumeRole-sts/test-user-testing"
+    }
